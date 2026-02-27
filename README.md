@@ -1,7 +1,7 @@
 # WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-ICLR2026-blue)]([https://github.com/your-username/WavefrontDiffusion](https://openreview.net/pdf?id=4smJ6zY7vy))
+[![Paper](https://img.shields.io/badge/Paper-ICLR2026-blue)]([https://openreview.net/pdf?id=4smJ6zY7vy](https://openreview.net/pdf?id=4smJ6zY7vy))
 
 Official implementation of the paper **"WavefrontDiffusion: Dynamic Decoding Schedule for Improved Reasoning"** (ICLR 2026).
 
